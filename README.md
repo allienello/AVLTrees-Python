@@ -1,5 +1,5 @@
 # AVLTrees-Python
-In this project, I implemented both a traditional BST and an AVL tree from the ground up in Python. Utilizing the AVL tree, I addressed a machine learning-inspired application problem
+In this project, I implemented both a traditional BST and an AVL tree from the ground up in Python. Utilizing the AVL tree, I addressed a machine learning-inspired application problem.
 
 This project was for my data structures and algorithms class at university. Areas of the code where it says 'Do not modify' were given by the instructor. Code indicated otherwise by 'Implement below', 'My code below', or 'Modify below' was implemented by me. 
 
